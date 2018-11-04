@@ -1,0 +1,11 @@
+conanbuildinfo.*
+CMakeFiles/
+cmake-build-debug/
+bin/ 
+cmake_install.cmake 
+Makefile 
+CMakeCache.txt 
+conaninfo.txt
+build/
+.idea/ 
+
