@@ -1,3 +1,4 @@
+*.cbp
 conanbuildinfo.*
 CMakeFiles/
 cmake-build-debug/
